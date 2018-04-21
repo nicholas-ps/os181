@@ -14,3 +14,5 @@ ZCZC W05 sudah
 ZCZC W06 finish
 
 ZCZC W07 performed
+
+ZCZC W08 dicoba
